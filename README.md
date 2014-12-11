@@ -3,10 +3,12 @@ bluemix-button-app
 
 Public application used to test the Bluemix button.
 
-Beta3 deployment
+Use beta3
+==========
 
-![bluemix-button](https://raw.githubusercontent.com/maciej-bendkowski/bluemix-button-app/master/public/deploy2bluemix.png)
+[![Deploy to Bluemix](https://raw.githubusercontent.com/maciej-bendkowski/bluemix-button-app/master/public/deploy2bluemix.png)]https://beta3.hub.jazz.net/code/cfui/bluemix/deploy.html#,Repository=https://github.com/maciej-bendkowski/bluemix-button-app.git)
 
-Localhost deployment
+use Localhost (cc/)
+====================
 
-![bluemix-button](https://raw.githubusercontent.com/maciej-bendkowski/bluemix-button-app/master/public/deploy2bluemix.png)
+[![Deploy to Bluemix](https://raw.githubusercontent.com/maciej-bendkowski/bluemix-button-app/master/public/deploy2bluemix.png)](http://localhost:8082/cc/cfui/bluemix/deploy.html#,Repository=https://github.com/maciej-bendkowski/bluemix-button-app.git)
