@@ -1,7 +1,7 @@
-bluemix-button-app
+Hello Node on Bluemix
 ==================
 
-Public application used to test the Bluemix button.
+A simple "Hello World" Node.js application, suitable for running on [IBM Bluemix](https://bluemix.net)
 
 Use beta3
 ---------
