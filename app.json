@@ -1,7 +1,7 @@
 {
-  "name": "Node.js Getting Started",
-  "description": "A barebones Node.js app using Express 4",
-  "repository": "https://github.com/heroku/node-js-getting-started",
-  "logo": "http://node-js-sample.herokuapp.com/node.svg",
-  "keywords": ["node", "express", "static"]
+  "name": "Hello World for Node.js",
+  "description": "A simple web page sample built using Node.js and Express.js",
+  "repository": "https://github.com/jarthorn/bluemix-sample-node-app",
+  "logo": "https://raw.githubusercontent.com/jarthorn/bluemix-sample-node-app/master/public/node.svg",
+  "keywords": ["bluemix", "node", "express", "static"]
 }
