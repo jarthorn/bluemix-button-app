@@ -5,7 +5,7 @@ app.set('port', (process.env.PORT || 5000));
 app.use(express.static(__dirname + '/public'));
 
 app.get('/', function(request, response) {
-  response.send('Run app, run!');
+  response.send('Hello Node.js on Bluemix!');
 });
 
 app.listen(app.get('port'), function() {
