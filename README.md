@@ -33,4 +33,4 @@ Use QA
 Use prod
 -------------------
 
-[![Deploy to Bluemix](http://hub.jazz.net/deploy/button.png)](https://hub.jazz.net/deploy?repository=https%3A%2F%2Fgithub.com%2Fjarthorn%2Fbluemix-sample-node-app.git)
+[![Deploy to Bluemix](http://hub.jazz.net/deploy/button.png)](https://bluemix.net/deploy?repository=https%3A%2F%2Fgithub.com%2Fjarthorn%2Fbluemix-sample-node-app.git)
