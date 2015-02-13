@@ -16,7 +16,7 @@ Use QA
 Use prod
 -------------------
 
-[![Deploy to Bluemix](http://hub.jazz.net/deploy/button.png)](https://hub.jazz.net/deploy?repository=https://github.com/jarthorn/bluemix-sample-node-app)
+[![Deploy to Bluemix](http://hub.jazz.net/deploy/button.png)](https://bluemix.net/deploy?repository=https://github.com/jarthorn/bluemix-sample-node-app)
 
 
 
